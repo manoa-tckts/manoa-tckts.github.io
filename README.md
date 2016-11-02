@@ -30,15 +30,17 @@ Some possible mockup pages include:
 
 * Public landing page
 ![alt text](Screenshots/login.png)
-* Login page
 * User home page
 ![alt text](Screenshots/account.png)
-* Admin home page
-* User Profile page
+* Edit Profile page
+![alt text](Screenshots/editprofile.png)
 * Events page
 ![alt text](Screenshots/events.png)
 * Post Sell ticket page
 ![alt text](Screenshots/sell.png)
+
+* Admin home page
+* Login page
 * Post Buy ticket page
 * Notify admin page
 * Promoters page
