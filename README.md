@@ -29,16 +29,16 @@
 Some possible mockup pages include:
 
 * Public landing page
-![alt text](manoa-tckts.github.io/Screenshots/login.png)
+![alt text](Screenshots/login.png)
 * Login page
 * User home page
-![alt text](manoa-tckts.github.io/Screenshots/account.png)
+![alt text](Screenshots/account.png)
 * Admin home page
 * User Profile page
 * Events page
-![alt text](manoa-tckts.github.io/Screenshots/events.png)
+![alt text](Screenshots/events.png)
 * Post Sell ticket page
-![alt text](manoa-tckts.github.io/Screenshots/sell.png)
+![alt text](Screenshots/sell.png)
 * Post Buy ticket page
 * Notify admin page
 * Promoters page
