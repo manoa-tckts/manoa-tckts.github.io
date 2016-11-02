@@ -38,7 +38,6 @@ Some possible mockup pages include:
 ![alt text](Screenshots/events.png)
 * Post Sell ticket page
 ![alt text](Screenshots/sell.png)
-
 * Admin home page
 * Login page
 * Post Buy ticket page
