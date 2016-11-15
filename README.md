@@ -19,7 +19,7 @@
 * User home page
 ![alt text](Screenshots/account.png)
 * Edit Profile page
-![alt text](Screenshots/editprofile.png)
+![alt text](Screenshots/edit-profile.png)
 * Events page
 ![alt text](Screenshots/events-m1.png)
 * Post Sell ticket page
