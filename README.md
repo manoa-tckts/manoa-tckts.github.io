@@ -17,7 +17,7 @@
 ![alt text](Screenshots/landing2.png)
 ![alt text](Screenshots/landing3.png)
 * User home page
-![alt text](Screenshots/account.png)
+![alt text](Screenshots/updated-profile.png)
 * Edit Profile page
 ![alt text](Screenshots/edit-profile.png)
 * Events page
