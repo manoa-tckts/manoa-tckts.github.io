@@ -23,7 +23,7 @@
 * Events page
 ![alt text](Screenshots/events.png)
 * Post Sell ticket page
-![alt text](Screenshots/sell.png)
+![alt text](Screenshots/sell-m1.png)
 
 #Functionatlies in progress
 * A page for a single event
