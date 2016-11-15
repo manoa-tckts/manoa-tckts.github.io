@@ -13,7 +13,9 @@
 #Current Screenshots
 
 * Public landing page
-![alt text](Screenshots/login.png)
+![alt text](Screenshots/landing1.png)
+![alt text](Screenshots/landing2.png)
+![alt text](Screenshots/landing3.png)
 * User home page
 ![alt text](Screenshots/account.png)
 * Edit Profile page
