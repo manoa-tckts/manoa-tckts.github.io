@@ -21,7 +21,7 @@
 * Edit Profile page
 ![alt text](Screenshots/editprofile.png)
 * Events page
-![alt text](Screenshots/events.png)
+![alt text](Screenshots/events-m1.png)
 * Post Sell ticket page
 ![alt text](Screenshots/sell-m1.png)
 
