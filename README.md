@@ -27,17 +27,4 @@
 * Post Sell ticket page
 ![alt text](Screenshots/sell-m1.png)
 
-#Functionalities in progress
-* A page for a single event
-* View profile pages
-* Admin Privileges
-* Promoter status
-* More to come
 
-#Additional functionalities for future versions
-
-* Implement proximity locations so that users can find people near them to make transactions. 
-* Allow users to write reviews for other users on things such as legitimacy, how well the transaction went, if they violated any terms and/or if they should be banned, etc. 
-* Use something similar to Uber where there are notifications as to where the buyer/seller is in relation to each other.
-* Messaging system for users to communicate with each other.
-* Previews of the events such as sound clips or movie clips.
