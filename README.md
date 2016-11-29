@@ -18,6 +18,7 @@
 ![alt text](Screenshots/landing1.png)
 ![alt text](Screenshots/landing2.png)
 ![alt text](Screenshots/landing3.png)
+![alt text](Screenshots/landing4.png)
 * User home page
 ![alt text](Screenshots/updated-profile.png)
 * Edit Profile page
@@ -27,7 +28,7 @@
 * Single Event page
 ![alt text](Screenshots/single-event-page.png)
 * Post Sell ticket page
-![alt text](Screenshots/sell-m1.png)
+![alt text](Screenshots/sell-m2.png)
 
 
 
