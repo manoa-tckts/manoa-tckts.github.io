@@ -24,7 +24,10 @@
 ![alt text](Screenshots/edit-profile.png)
 * Events page
 ![alt text](Screenshots/events-m1.png)
+* Single Event page
+![alt text](Screenshots/single-event-page.png)
 * Post Sell ticket page
 ![alt text](Screenshots/sell-m1.png)
+
 
 
