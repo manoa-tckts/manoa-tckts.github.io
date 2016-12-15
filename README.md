@@ -46,5 +46,13 @@
 * Post Sell ticket page
 ![alt text](Screenshots/sell-m2.png)
 
+##Adminitrator Features
+###* Ban Users and Appoint other Administrators
+![alt text](Screenshots/admin-role-view-users.png)
+<br><br>
+###* Add Events to the Events Page
+###* Delete Events from the Events Page
+![alt text](Screenshots/admin-role-add-delete-events.png)
+
 
 
