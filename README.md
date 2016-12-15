@@ -79,6 +79,9 @@
 
 #Milestones
 <a href="https://github.com/manoa-tckts/manoa-tckts/projects/1"> Milestone 1</a>
+<br>
 <a href="https://github.com/manoa-tckts/manoa-tckts/projects/2"> Milestone 2</a>
+<br>
 <a href="https://github.com/manoa-tckts/manoa-tckts/projects/3"> Milestone 3</a>
+<br>
 
