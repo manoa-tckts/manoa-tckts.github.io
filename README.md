@@ -34,7 +34,7 @@
 <br>
 ##TAKE NOTICE
 ###In order for others to be able to contact a user to buy a ticket they are selling, the seller must have the "Email Checked" or "Phone Checked" on their Profile Page.
-![alt text](Screenshots/updated-profile.png)
+![alt text](Screenshots/profile-page.png)
 <br><br>
 ##Events Page:
 ###From this page users are able to browse through the upcoming events on Oahu. Users can click on one of the events and it takes them to that specific event page.
@@ -46,7 +46,7 @@
 <br><br>
 ##Sell Ticket Page
 ###On this page users are able to post their tickets to sell.
-![alt text](Screenshots/sell-m2.png)
+![alt text](Screenshots/sell-ticket-page-final.png)
 
 ##Adminitrator Features
 ###* Ban Users and Appoint other Administrators
