@@ -12,7 +12,7 @@
 4. Because this app is only for UHM students, concert tickets will be limited to concert events on Oahu only.
 5. Students who violate the terms of use for the system can be banned by locking out their UH ID.
 
-#Manoa TCKTS Walkthrough
+#Guided Tour
 
 ##Public Landing Page:
 ###Users are able to login using their UH Username and password. As well as read up on some information on Manoa TCKTS and what it's about.
@@ -57,4 +57,21 @@
 ![alt text](Screenshots/admin-role-add-delete-events.png)
 
 
+#Developer's Guide
+
+* Meteor is required.
+
+* Create a new directory.
+
+* Use git clone to clone the repository into that directory:
+
+  **git clone https://github.com/manoa-tckts/manoa-tckts.git**
+  
+* Go to the new directory that you created and navigate to the /app directory.
+
+* Once in the /app directory, you will have to run:
+    <br>**meteor npm install**
+    
+* To locally host the application, run this while you are still in the /app directory:
+    <br>**meteor --settings ../config/settings.development.json**
 
