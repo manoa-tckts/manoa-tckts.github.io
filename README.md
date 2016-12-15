@@ -75,3 +75,4 @@
 * To locally host the application, run this while you are still in the /app directory:
     <br>**meteor --settings ../config/settings.development.json**
 
+* You can now open any browser and go to localhost:3000 to view the application.
