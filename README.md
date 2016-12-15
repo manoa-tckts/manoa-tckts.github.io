@@ -76,3 +76,9 @@
     <br>**meteor --settings ../config/settings.development.json**
 
 * You can now open any browser and go to localhost:3000 to view the application.
+
+#Milestones
+<a href="https://github.com/manoa-tckts/manoa-tckts/projects/1"> Milestone 1</a>
+<a href="https://github.com/manoa-tckts/manoa-tckts/projects/2"> Milestone 2</a>
+<a href="https://github.com/manoa-tckts/manoa-tckts/projects/3"> Milestone 3</a>
+
