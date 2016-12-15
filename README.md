@@ -85,3 +85,59 @@
 <a href="https://github.com/manoa-tckts/manoa-tckts/projects/3"> Milestone 3</a>
 <br>
 
+#Initial User Study
+We have surveyed 5 students to test our app. They have provided us with feedback on the functionality of our app. Both things that were great about it, and things that needed improvements
+<br>These users were monitored by us as they walked through the site with questions
+
+##Overall Experience
+
+ *  The images looked nice
+ *  Layout of pages were nice
+ *  It was cool to post a ticket and to see what other tickets were posted
+ *  The organization of the different events was nice
+ *  Impressive to login with UH username
+ *  Cards for events could have been padded better
+ *  images for events could be bigger
+ *  It was cool to have admins role
+ *  It might be better to user another type of popup or a prettier popup (modal)
+
+
+##Events Page
+
+  *  Structure of events was nice
+  *  It was nice to click on one event and leads to another page
+  *  There is not much infromation on one event besides the tickets being sold, location
+  *  Some images looked too small/too big
+
+
+##Profile Page
+
+  *  It was nice to have information and tickets being displayed
+  *  Side bar was clickable
+  *  What do we do with motto and misc?
+  *  Tickets are deletable
+
+
+##Sell Ticket Page
+
+  *  Dropdown menu for tickets were nice
+  *  Page was kind of bland since all there was was an event name and a price
+  *  I liked that it took me back to profile page
+
+
+##Admin priviliges
+
+  *  It was cool to be able to ban users
+  *  It was cool to be able to create and remove events
+  *  There could be issues in removing events when ticket exchanges are being done
+  *  Not able to edit existing events?
+  *  How do people contact the admins?
+
+
+##Messaging
+
+  *  Cool feature
+  *  Impressive to see that popup message description
+  *  Pages seem kind of bland, lots of white space on inbox and message page
+  *  Can we message other people?
+  *  How do I message a specific user?
