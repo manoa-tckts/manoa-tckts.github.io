@@ -1,4 +1,4 @@
-#Click Here To Join The Fun: http://manoa-tckts.meteorapp.com
+#Click Here: http://manoa-tckts.meteorapp.com
 
 #About Manoa TCKTS
 
