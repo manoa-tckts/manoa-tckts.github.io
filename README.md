@@ -43,7 +43,9 @@
 ###Single Event page
 ####This page displays the event information as well as the tickets that are currently being sold by other users. The information on how to contact a ticket seller is also listed here. There is also the option to send a message directly to the seller.
 ![alt text](Screenshots/single-event-page.png)
-* Post Sell ticket page
+<br><br>
+##Sell Ticket Page
+###On this page users are able to post their tickets to sell.
 ![alt text](Screenshots/sell-m2.png)
 
 ##Adminitrator Features
