@@ -1,4 +1,4 @@
-#Click Here: http://manoa-tckts.meteorapp.com
+#<a href="http://manoa-tckts.meteorapp.com">View our app</a>
 
 #About Manoa TCKTS
 
