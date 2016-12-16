@@ -1,0 +1,8 @@
+title: Manoa Tckts
+description: Where you control the tickets. A ticket exchange app made by students for students. Make exchanges and make friends along the way
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
