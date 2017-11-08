@@ -1,3 +1,23 @@
+# Developer's and Quick Use Guide
+
+* Meteor is required.
+
+* Create a new directory.
+
+* Use git clone to clone the repository into that directory:
+
+  **git clone https://github.com/manoa-tckts/manoa-tckts.git**
+  
+* Go to the new directory that you created and navigate to the /app directory.
+
+* Once in the /app directory, you will have to run:
+    <br>**meteor npm install**
+    
+* To locally host the application, run this while you are still in the /app directory:
+    <br>**meteor --settings ../config/settings.development.json**
+
+* You can now open any browser and go to localhost:3000 to view the application.
+
 # About Manoa TCKTS
 
 **The Problem**: A huge portion of UHM students attend concerts. But the only way to purchase tickets to these events are usually through ticket vendors such as the Campus Center Ticketing Office, or through online websites such as Flavorus. These means of purchasing tickets usually come with a service fee which raises the prices of already difficult to afford tickets. Therefore, students look for ways to purchase tickets at a better price or without service fees through peers. Additionally, students that officially sell tickets for events want to let people know that they are promoting for a particular event or company. Ticket sellers and buyers usually turn to social media such as Instagram, Facebook, or Craigslist to look for/sell tickets. Wouldn't it be helpful to have an application dedicated to the commerce of tickets through peers? 
@@ -53,27 +73,6 @@
 ### * Add Events to the Events Page
 ### * Delete Events from the Events Page
 ![alt text](Screenshots/admin-role-add-delete-events.png)
-
-
-# Developer's Guide
-
-* Meteor is required.
-
-* Create a new directory.
-
-* Use git clone to clone the repository into that directory:
-
-  **git clone https://github.com/manoa-tckts/manoa-tckts.git**
-  
-* Go to the new directory that you created and navigate to the /app directory.
-
-* Once in the /app directory, you will have to run:
-    <br>**meteor npm install**
-    
-* To locally host the application, run this while you are still in the /app directory:
-    <br>**meteor --settings ../config/settings.development.json**
-
-* You can now open any browser and go to localhost:3000 to view the application.
 
 # Initial User Study
 We have surveyed 5 students to test our app. They have provided us with feedback on the functionality of our app. Both things that were great about it, and things that needed improvements
