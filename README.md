@@ -1,6 +1,6 @@
 # Developer's and Quick Use Guide
 
-* Meteor is required.
+* Meteor is required. You can download Meteor here: https://www.meteor.com/install
 
 * Create a new directory.
 
